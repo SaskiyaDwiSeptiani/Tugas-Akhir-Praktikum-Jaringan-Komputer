@@ -1,0 +1,37 @@
+# 🖧 Konfigurasi Router dan Topologi Jaringan – Cisco Packet Tracer
+
+## 📘 Deskripsi Proyek
+Proyek ini merupakan simulasi konfigurasi jaringan komputer menggunakan Cisco Packet Tracer.  
+Tujuan dari proyek ini adalah untuk memahami cara menghubungkan beberapa perangkat jaringan seperti router, switch, dan PC agar dapat saling berkomunikasi.  
+
+Simulasi ini mencakup langkah-langkah seperti:
+- Membuat topologi jaringan.  
+- Mengatur hostname dan IP address pada router serta PC.  
+- Menguji koneksi antar perangkat menggunakan perintah `ping`.  
+- Melakukan troubleshooting apabila terjadi Request Timed Out.
+
+---
+
+## 🧭 Topologi Jaringan
+Berikut adalah gambar topologi jaringan yang digunakan dalam proyek ini:
+
+![Topologi Jaringan](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/eb7c79311992351f28ba61cab621dd076ad2ae8a/TopologiJaringan.png)
+
+---
+
+## 📂 File Cisco Packet Tracer
+📎 [Download konfigurasi-router.pkt](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/eb7c79311992351f28ba61cab621dd076ad2ae8a/TA%20Judul%202.pkt)
+
+---
+
+## 🎥 Video Demonstrasi YouTube
+Tonton video penjelasan dan demonstrasi proyek ini di YouTube:  
+👉 [Klik di sini untuk menonton](https://youtu.be/rVlwxNS_4Zg)
+
+---
+
+## 👩‍💻 Pembuat Proyek
+**Nama:** Saskiya Dwi Septiani  
+**Universitas:** Universitas Lampung  
+
+---
