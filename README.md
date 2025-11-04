@@ -19,6 +19,22 @@ Berikut adalah gambar topologi jaringan yang digunakan dalam proyek ini:
 
 ---
 
+Berikut adalah gambar Ping dari PC-A dan PC-B tidak berhasil:
+
+![Ping PC-A ke PC-B](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/a4ebc96f787683be675dbec28e900c218eb29b7b/TidakBerhasilPCA.jpg)
+
+![Ping PC-A ke PC-B](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/a4ebc96f787683be675dbec28e900c218eb29b7b/TidakBerhasilPCB.jpg)
+
+---
+
+Berikut adalah gambar Ping dari PC-A dan PC-B berhasil:
+
+![Ping PC-A ke PC-B](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/a4ebc96f787683be675dbec28e900c218eb29b7b/PingPCABerhasil.jpg)
+
+![Ping PC-B ke PC-A](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/a4ebc96f787683be675dbec28e900c218eb29b7b/Ping%20PCBBerhasil.jpg)
+
+---
+
 ## 📂 File Cisco Packet Tracer
 📎 [Download konfigurasi-router.pkt](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/eb7c79311992351f28ba61cab621dd076ad2ae8a/TA%20Judul%202.pkt)
 
