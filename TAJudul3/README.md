@@ -32,8 +32,9 @@ Topologi jaringan terdiri dari 2 switch (S1 dan S2) serta 3 PC (PC-A, PC-B, dan 
 Konfigurasi VLAN membantu dalam pembagian jaringan menjadi beberapa segmen yang lebih aman dan efisien. Dengan penambahan trunk link, komunikasi antar VLAN pada switch yang berbeda dapat dilakukan dengan lancar.  
 Simulasi ini menunjukkan pentingnya konfigurasi VLAN dan trunk untuk membangun jaringan yang terstruktur dan mudah dikelola.
 
-## 👩‍💻 File Cisco Packet Tracer  
+## 👩‍💻 Video Youtube  
 📥 [Download File Cisco Packet Tracer (.pkt)](https://youtu.be/tlQ4CRy2s9g)  
 
-## 👩‍💻 Video Youtube
+## 👩‍💻 File Packet Tracer
 📥 [Youtube Saskiya Dwi Septiani](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/59ee3e829e705691cf36514e6fecd1f83279547b/TAJudul3/TAJudul3.pkt)
+
