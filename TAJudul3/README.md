@@ -33,8 +33,9 @@ Konfigurasi VLAN membantu dalam pembagian jaringan menjadi beberapa segmen yang 
 Simulasi ini menunjukkan pentingnya konfigurasi VLAN dan trunk untuk membangun jaringan yang terstruktur dan mudah dikelola.
 
 ## 👩‍💻 Video Youtube  
-📥 [Download File Cisco Packet Tracer (.pkt)](https://youtu.be/tlQ4CRy2s9g)  
+📥 [Youtube Saskiya Dwi Septiani](https://youtu.be/tlQ4CRy2s9g)  
 
 ## 👩‍💻 File Packet Tracer
-📥 [Youtube Saskiya Dwi Septiani](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/59ee3e829e705691cf36514e6fecd1f83279547b/TAJudul3/TAJudul3.pkt)
+📥 [Download File Cisco Packet Tracer (.pkt)](https://github.com/SaskiyaDwiSeptiani/Tugas-Akhir-Praktikum-Jaringan-Komputer/blob/59ee3e829e705691cf36514e6fecd1f83279547b/TAJudul3/TAJudul3.pkt)
+
 
